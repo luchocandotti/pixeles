@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    background-color: beige;
+    justify-content: left;
+    align-items:center;
+    flex-wrap: wrap;
+    padding: 10px 0 0 10px;
+}
+
+.div{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    color: blue;
+    margin: 0 10px 10px 0;
+}
+
