@@ -10,7 +10,10 @@
     justify-content: left;
     align-items:center;
     flex-wrap: wrap;
+
+    
     /* padding: 10px 0 0 10px; */
+
 }
 
 .div{
@@ -18,5 +21,12 @@
     height: 10px;
     background-color: rgb(103, 103, 103);
     margin: 0;
+    /* div.style.animation = "fade 1s"; */
 }
 
+
+
+/* @keyframes fade {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+} */
